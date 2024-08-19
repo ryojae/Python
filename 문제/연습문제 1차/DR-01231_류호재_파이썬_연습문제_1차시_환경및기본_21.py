@@ -1,0 +1,1 @@
+# 문제 21) Print가 아닌 print로 앞에 대문자가 잘 못들어가 print("This is test!!")로 수정하면 제대로 작동한다.
